@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#nav {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav1 {
+    display: flex;
+    flex-direction: column;
+}
+
+#logo_name {
+    color: #2a55e5;
+    font-size: 24px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#search_btn  {
+
+    height: 40px;
+    padding: 20px;
+    width: 30pc;
+    border: none;
+   padding-left: 12px;
+   background-color: #f0f5ff;
+}
+
+.navtab {
+    display: flex;
+    align-items: center;
+}
+
+#searchbar {
+    background-color: #ffffff52;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+#login_btn {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+#categories {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 6px;
+    margin: 15px auto;
+    padding-top: 50px;
+    padding-right: 155px;
+}
+
+#categories > div > img  {
+    height: 60px;
+    width: 70px;
+}
+
+
+#categories > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}

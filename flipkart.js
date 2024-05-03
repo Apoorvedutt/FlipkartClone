@@ -56,6 +56,8 @@ categories.map((element) => {
   let title = document.createElement("p");
   title.innerHTML = element.title;
 
+  document.getElementsByName("title")
+
   let box = document.createElement("div");
   box.append(image, title);
   document.getElementById("categories").append(box);

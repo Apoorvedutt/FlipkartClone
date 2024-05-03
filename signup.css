@@ -12,7 +12,7 @@
 
 #innerBox {
     display: flex;
-    width: 50%;
+    width: 70%;
     border: 1px solid white;
     box-shadow:5px 5px lightgray;
     height: 500px;
@@ -25,6 +25,7 @@
     justify-content: space-between;
     align-items: center;
     background-color: #2873f0 ;
+    width: 30%;
     color: white;
     padding: 40px 33px;
     font-size: 15px;
@@ -35,4 +36,9 @@
     flex-direction: column;
     padding: 40px 33px;
    
+}
+
+.Requestotp:hover{
+    background-color: lightsalmon;
+    color: white;
 }

@@ -1,0 +1,10 @@
+Javascript Topics
+
+var, let, const, premitive data types, string methods, conditionals, loops, for each loops, 
+functions & arrow functions(also their difference), lexical this, events,
+ handling events, spread operator, destructring, named and default imports,
+ asynchronus nature, callback, promises, async/await, map, filter, reduce, socket, web RTC.
+
+
+
+
